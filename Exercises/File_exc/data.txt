@@ -1,0 +1,3 @@
+apple orange apple banana
+orange apple kiwi banana apple
+kiwi kiwi banana

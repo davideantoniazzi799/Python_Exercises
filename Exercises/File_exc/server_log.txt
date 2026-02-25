@@ -1,0 +1,6 @@
+ERROR Database failure
+INFO User login
+INFO User logout
+WARNING High memory usage
+ERROR Disk full
+INFO File uploaded

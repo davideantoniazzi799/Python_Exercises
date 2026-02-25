@@ -1,0 +1,20 @@
+Column: math_score
+Min: 67.0
+Max: 100.0
+Mean: 84.38
+------------------------------
+Column: physics_score
+Min: 59.0
+Max: 97.0
+Mean: 83.25
+------------------------------
+Column: chemistry_score
+Min: 65.0
+Max: 100.0
+Mean: 83.88
+------------------------------
+Column: attendance
+Min: 0.0
+Max: 100.0
+Mean: 82.5
+------------------------------

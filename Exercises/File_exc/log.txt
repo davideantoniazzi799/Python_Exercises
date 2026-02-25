@@ -1,0 +1,7 @@
+ERROR: File not found
+INFO: User logged in
+WARNING: Low battery
+ERROR: Access denied
+INFO: File uploaded
+WARNING: High temperature
+ERROR: Disk full

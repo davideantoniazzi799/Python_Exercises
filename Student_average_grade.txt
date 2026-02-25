@@ -1,0 +1,4 @@
+Luca | 88.33
+Sofia | 82.33
+Marco | 70
+Luigi | 83.67
